@@ -1,0 +1,15 @@
+D:\GuitHub\OlaMundo\bin\Debug\net8.0\OlaMundo.exe
+D:\GuitHub\OlaMundo\bin\Debug\net8.0\OlaMundo.deps.json
+D:\GuitHub\OlaMundo\bin\Debug\net8.0\OlaMundo.runtimeconfig.json
+D:\GuitHub\OlaMundo\bin\Debug\net8.0\OlaMundo.dll
+D:\GuitHub\OlaMundo\bin\Debug\net8.0\OlaMundo.pdb
+D:\GuitHub\OlaMundo\obj\Debug\net8.0\OlaMundo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GuitHub\OlaMundo\obj\Debug\net8.0\OlaMundo.AssemblyInfoInputs.cache
+D:\GuitHub\OlaMundo\obj\Debug\net8.0\OlaMundo.AssemblyInfo.cs
+D:\GuitHub\OlaMundo\obj\Debug\net8.0\OlaMundo.csproj.CoreCompileInputs.cache
+D:\GuitHub\OlaMundo\obj\Debug\net8.0\OlaMundo.sourcelink.json
+D:\GuitHub\OlaMundo\obj\Debug\net8.0\OlaMundo.dll
+D:\GuitHub\OlaMundo\obj\Debug\net8.0\refint\OlaMundo.dll
+D:\GuitHub\OlaMundo\obj\Debug\net8.0\OlaMundo.pdb
+D:\GuitHub\OlaMundo\obj\Debug\net8.0\OlaMundo.genruntimeconfig.cache
+D:\GuitHub\OlaMundo\obj\Debug\net8.0\ref\OlaMundo.dll
